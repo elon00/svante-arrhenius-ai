@@ -1,0 +1,14 @@
+{
+  "project": "svante-arrhenius-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "7RJRescSwPVZUnonVeXWXXKRw12BQMgNnpx2cN9cvxK2",
+  "vault_account": "94bxH7AwTqckamS8e7aeUrF6tw4PZSrzVr7H47ye5MYr",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "r9kmSMVejN1fH9HmF4EV5krygJdTNveTNeP2dE2VQsL6JLr6v8E3UFtZv5huMHzFEmpmkMzntgjtqCcfYhqmYPQ",
+  "account_tx": "2o98qfuvPhyaz3M21WokugDu2EEtC48xtxftXcj8vQjDKkYpgh5jfq6QWUFzWKj969MqN9EyawFfmzBNYAupjgkL",
+  "mint_tx": "3zaq7C6fu3M57NArEJec21BbDnVpJVxbu3wUN2TVYnnYbhLqzoXJFEa73FeGvrPUPWMqLn4JK1ZrNzDijdRHnxB3",
+  "solana_explorer_mint": "https://explorer.solana.com/address/7RJRescSwPVZUnonVeXWXXKRw12BQMgNnpx2cN9cvxK2?cluster=devnet",
+  "timestamp": "2026-10-26 16:59:45 UTC"
+}
